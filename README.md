@@ -1,4 +1,4 @@
-# Fidenz Weather Comfort Index App
+# Weather Comfort Index App
 
 A weather app that pulls live weather data for 10 cities, works out a "Comfort Index" score for each one using a formula I designed myself, and shows them ranked from most to least comfortable. Login is handled through Auth0, with MFA enabled.
 
